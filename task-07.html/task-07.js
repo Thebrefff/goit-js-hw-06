@@ -5,3 +5,35 @@ textSize.addEventListener('change', event => {
 	abracadabra.style.fontSize = `${event.target.value}px`;
 });
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
